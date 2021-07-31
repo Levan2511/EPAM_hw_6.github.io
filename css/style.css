@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.color-coral {
+    background-color: coral;
+    border: none;
+}
+.border-radius-0 {
+    border-radius: 0px;
+}
+.bg-black {
+    background: #525252;
+}
